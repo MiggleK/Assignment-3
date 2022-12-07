@@ -1,5 +1,5 @@
 # Assignment-3
-Created by: Miguel R. Kunkkle
+Created by: Miguel R. Kunkle
 
 Question 1
 --------------------------------
