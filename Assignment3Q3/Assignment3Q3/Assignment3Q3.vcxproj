@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Assignment3Q3.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CapMap.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
